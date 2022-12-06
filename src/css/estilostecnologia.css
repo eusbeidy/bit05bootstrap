@@ -1,0 +1,22 @@
+body {
+    background-color:black
+}
+
+header {
+    margin-top: 56px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+main {
+    margin: 100px;
+    margin-top: auto;
+}
+
+main,
+h4,
+footer {
+    color: white;
+}
