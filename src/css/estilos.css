@@ -13,3 +13,13 @@ footer {
     width:100%;
     height: 200%;
 }
+/* estilos moda*/
+
+.color{
+    background-color: rgb(238, 196, 217);
+}
+/*estilos conocenos*/
+
+.conocenos{
+    background-color: rgb(240, 240, 252);
+}
