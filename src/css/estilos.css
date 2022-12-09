@@ -1,11 +1,14 @@
+*{
+    box-sizing: border-box;
+}
 body {
     background-color: rgba(255, 230, 0, 0.904);
 }
 
 aside {
-    background-color: rgba(37, 54, 204, 0.685);
+    background-color: rgba(200, 205, 252, 0.685);
     margin: 12px;
-    float: right;
+    /*float: right;*/
     padding: 4px;
 }
 
@@ -22,4 +25,12 @@ footer {
 
 .conocenos{
     background-color: rgb(240, 240, 252);
+}
+/* estilos de formulario*/
+
+form{
+    max-width: 485px;
+    width: 100%;
+    margin: 30px auto 0;
+    background-color:rgb(111, 161, 228) ;
 }
