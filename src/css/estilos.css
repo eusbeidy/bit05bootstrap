@@ -7,9 +7,9 @@ body {
 
 aside {
     background-color: rgba(200, 205, 252, 0.685);
-    margin: 12px;
+    margin: 16px;
     /*float: right;*/
-    padding: 4px;
+    padding: 16px;
 }
 
 footer {
@@ -17,7 +17,6 @@ footer {
     height: 200%;
 }
 /* estilos moda*/
-
 .color{
     background-color: rgb(238, 196, 217);
 }
@@ -27,10 +26,15 @@ footer {
     background-color: rgb(240, 240, 252);
 }
 /* estilos de formulario*/
-
+.h2{
+    text-align: center;
+}
 form{
     max-width: 485px;
     width: 100%;
     margin: 30px auto 0;
     background-color:rgb(111, 161, 228) ;
+    padding: 10px;
 }
+
+
